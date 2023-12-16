@@ -1,0 +1,14 @@
+F:\scholarhats\NitinNotes\bin\Debug\net8.0\NitinNotes.exe
+F:\scholarhats\NitinNotes\bin\Debug\net8.0\NitinNotes.deps.json
+F:\scholarhats\NitinNotes\bin\Debug\net8.0\NitinNotes.runtimeconfig.json
+F:\scholarhats\NitinNotes\bin\Debug\net8.0\NitinNotes.dll
+F:\scholarhats\NitinNotes\bin\Debug\net8.0\NitinNotes.pdb
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.GeneratedMSBuildEditorConfig.editorconfig
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.AssemblyInfoInputs.cache
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.AssemblyInfo.cs
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.csproj.CoreCompileInputs.cache
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.dll
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\refint\NitinNotes.dll
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.pdb
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\NitinNotes.genruntimeconfig.cache
+F:\scholarhats\NitinNotes\obj\Debug\net8.0\ref\NitinNotes.dll
